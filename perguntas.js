@@ -1,14 +1,14 @@
 
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'quais as 3 principais linguagens usadas?',
+    'Python, Java, JavaScript'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Programação',
+    'O que é html?',
+    'é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web.'
 )
 
 criaCartao(
@@ -18,7 +18,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'O que o Css pode fazer?',
+    'permite a personalização da aparência dos elementos HTML, tornando as páginas visualmente atraentes, alinhadas com a identidade visual da marca.'
 )
